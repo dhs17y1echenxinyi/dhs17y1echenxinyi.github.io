@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+                                                   <head>
+                                    <title>My Personal Portfolio Website</title>
+                                                   </head>
+<style>
+body {
+    background-color: lightblue;
+}
+</style>
+<body>
+           <h1>About</h1>
+<p>I am Xinyi, a 13 year old student in <a href="http://dunmanhigh.moe.edu.sg/wp-content/uploads/website/index.html">Dunman High School</a></p>
+         <h1>Interests</h1>
+<p>I like reading books, playing games on my phone and tasting good food.</p>
+                                                                   <img src="https://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/cloud.svg" height="128" width="196">
+         <h1>Accomplishments</h1>
+<p>I've been playing the <a href="http://en.m.wikipedia.org/wiki/Piano">piano</a> since I was 4 years old and have performed in many concerts.</p>
+
+
